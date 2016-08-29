@@ -43,3 +43,4 @@ More information at [src/MusicStore/StartupNtlmAuthentication.cs](src/MusicStore
 
 ###OpenIdConnect authentication
 More information at [src/MusicStore/StartupOpenIdConnect.cs](src/MusicStore/StartupOpenIdConnect.cs).
+
